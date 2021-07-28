@@ -1,0 +1,150 @@
+id,question,answer_id
+0,gosto de filmes fora da realidade,0
+1,acho legal filmes que se passam em outros mundos,0
+2,estou afim de filmes com cenários alternativos,0
+3,quero assistir um filme que seja do futuro,0
+4,seria legal um filme explorando outros universos,0
+5,gostaria de um filme com ciência e tecnologia,0
+6,tem algum filme com imaginação e mundos alternativos?,0
+7,filmes que narram a história de uma pessoa,1
+8,quer um filme baseado em fatos reais,1
+9,tem algum filme de biografia?,1
+10,quero um filme que fala sobre a pessoa,1
+11,gosto de filme que conta a história de vida,1
+12,serial legal um filme que relata a vida da pessoa,1
+13,gosto de filme que tenha muita musica,2
+14,gosto de filme que tem dança,2
+15,filme com dança é legal,2
+16,pessoas dançando é bem divertido,2
+17,filme com pessoas se superando na dança,2
+18,varias cenas com pessoas cantando várias musicas,2
+19,gosto de filmes com suspense,3
+20,acho legal filmes que causam agitação,3
+21,serial legal um filme que causa expectativa,3
+22,adoro filmes surpreendentes,3
+23,quero um filme que cause impacto em mim,3
+24,quero um filme com muito impacto nas cenas,3
+25,quero um filme de casal,4
+26,quero um filme romantico,4
+27,não gosto de filme sangrento,4
+28,não curto filmes com luta,4
+29,gosto de filmes que trazem reflexão para vida amorosa,4
+30,gosto de filmes com relacionamentos com finais felizes,4
+31,não quero filme violento,4
+32,gosto de filmes com assassinato,5
+33,quero um filme que contém pessoas mortas,5
+34,gosto de filmes com sangue,5
+35,gosto de filmes com psicopatas,5
+36,não gosto de filme meloso,5
+37,gosto de filmes com cenas chocantes,5
+38,filme com desenho animado,6
+39,quero um filme com desenho,6
+40,filme para assistir com meus filhos,6
+41,quero um filme infantil,6
+42,gosto de filmes com desenho,6
+43,quero um filme com desenho para criança,6
+44,gostaria um filme com magia,7
+45,quero um filme com fantasia para crianças,7
+46,gostaria de um filme com folclore para meus filhos,7
+47,seria legal um filme que disperta a imaginação,7
+48,gosto de filmes que se baseiam em livros,7
+49,quero um filme com magia para meu filho,7
+50,quero filme para assistir em familia,8
+51,gosto de filmes para assitir em familia,8
+52,seria legal um filme para assistir todo mundo junto,8
+53,quero um filme sem cenas impróprias para criança,8
+54,gostaria de um filme que de para assitir com todo mundo,8
+55,não quero um filme violento,8
+56,quero um filme cheio de aventura,9
+57,gosto de filmes com riscos e aventura,9
+58,gostaria de um filme com aventura,9
+59,quero um filme com muitas cenas inesperadas,9
+60,um filme com vários acontecimentos imprevisiveis seria legal,9
+61,hoje estou para um filme de aventura,9
+62,hoje estou a fim de assitir um filme de ação,10
+63,quero um filme de mocinho e vilão,10
+64,quero um filme com muitos tiros e armas,10
+65,quero um filme com muita pancadaria,10
+66,quero um filme com muita luta,10
+67,gosto de filme de ação,10
+68,quero um filme comovente,11
+69,gostaria de um filme trágico,11
+70,quero um filme com histórias tristes,11
+71,quero um filme dramático,11
+72,hoje quero um filme triste,11
+73,estou a fim de um filme triste,11
+74,hoje estou a fim de um filme divertido,12
+75,não quero filme de luta nem triste nem dramático,12
+76,preciso muito de um filme para rir,12
+77,quero um filme de comédia,12
+78,hoje eu só quero rir,12
+79,manda um filme pra mijar de dar risada,12
+80,Você conhece o Jim Carrey?,13
+81,Quem é Jim Carrey?,13
+82,Você sabe quem é o Jim Carrey?,13
+83,Você já ouviu falar sobre o Jim Carrey?,13
+84,Você sabe algo sobre o Jim Carrey?,13
+85,O que você sabe dizer sobre o Jim Carrey?,13
+86,Qual categoria de filme mais define o Jim Carrey?,14
+87,Qual estilo de filme O Jim Carrey mais atua?,14
+88,Qual é a enfase de atuação de filmes com Jim Carrey?,14
+89,Qual o estilo de roteiro que o Jim Carrey mais participa?,14
+90,O Jim Carrey é mundialmente conhecido por qual estilo de filme?,14
+91,Qual o estilo de filme do Jim Carrey?,14
+92,Que tipo de filme ele atua?,14
+93,Quero assistir um filme,15
+94,Você pode me recomendar um filme?,15
+95,Qual fime você pode me recomendar?,15
+96,Me recomenda um filme para assistir hoje?,15
+97,O que você pode me recomendar para assistir?,15
+98,Quero assistir um filme com Will Smith,15
+99,O que você sabe fazer?,15
+100,O Jim Carrey faz filmes de comédia?,16
+101,Quais filmes conhecidos ele atuou?,16
+102,Quais filmes de comédia ele atuou?,16
+103,Ele é o ator do máscara?,16
+104,Ele é o ator do filme o todo poderoso?,16
+105,Ele é aquele cara engraçado do filme que tem um hinoceronte?,16
+106,Pode ser,17
+107,sim eu aceito,17
+108,legal qual filme você recomenda?,17
+109,ok o que você sugere?,17
+110,o que tem de bom?,17
+111,pois bem qual sua sugestão?,17
+112,"bora lá, o que manda?",17
+113,não,18
+114,não gostei,18
+115,não é isso o que eu queria,18
+116,pode ser outro?,18
+117,melhor não,18
+118,odiei esse,18
+119,adorei,19
+120,vou assistir então,19
+121,obrigada,19
+122,bora lá então,19
+123,ai de você se eu não gostar,19
+124,muito obrigada,19
+125,gostei,20
+126,é um genero ok,20
+127,ta bom e qual filme?,20
+128,ta legal qual nome do filme?,20
+129,passa logo o filme,20
+130,ta ta passa o nome,20
+131,oi,21
+132,opa,21
+133,e ai?,21
+134,oie,21
+135,eai brow?,21
+136,olá,21
+137,Porque seu nome é Jim?,22
+138,Jim do que?,22
+139,"legal, por que seu nome é Jim?",22
+140,Jim é de Jim Carrey?,22
+141,Por que Jim?,22
+142,Legal seu nome,22
+143,"Olá Jim, prazer te conhecer",23
+144,Oie Jim,23
+145,Jim é um nome legal,23
+146,prazer te conhecer Jim,23
+147,eai Jim,23
+148,muito massa Jim,23
